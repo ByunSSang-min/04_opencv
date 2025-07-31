@@ -674,6 +674,11 @@ cv2.destroyAllWindows()
 
 ### 📷 **Result Screenshot:**
 
+Original pic
+
+![Result](img/car_1.jpg)
+<br>
+
 car_scanned_1.jpg
 
 ![Result](img/car_scanned_1.jpg)
